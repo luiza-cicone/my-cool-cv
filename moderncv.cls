@@ -192,7 +192,7 @@
 \newcommand*{\phonesymbol}{\Telefon~}
 \newcommand*{\faxsymbol}{\FAX~}
 \newcommand*{\emailsymbol}{\Letter~}
-\newcommand*{\homepagesymbol}{{\Large\ComputerMouse}~}
+\newcommand*{\homepagesymbol}{}
 
 % colors
 \definecolor{color0}{rgb}{0,0,0}% main default color, normally left to black
